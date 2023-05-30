@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MI_CLONE/static/css/main.95bf9b01.css",
+    "main.js": "/MI_CLONE/static/js/main.c2eda40d.js",
+    "static/js/787.3f882e18.chunk.js": "/MI_CLONE/static/js/787.3f882e18.chunk.js",
+    "index.html": "/MI_CLONE/index.html",
+    "main.95bf9b01.css.map": "/MI_CLONE/static/css/main.95bf9b01.css.map",
+    "main.c2eda40d.js.map": "/MI_CLONE/static/js/main.c2eda40d.js.map",
+    "787.3f882e18.chunk.js.map": "/MI_CLONE/static/js/787.3f882e18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95bf9b01.css",
+    "static/js/main.c2eda40d.js"
+  ]
+}
