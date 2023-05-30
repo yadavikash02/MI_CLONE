@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.card-img{
+  transition: all 0.5s;
+}
+.card-img:hover{
+  box-shadow: 16px 16px 15px 10px rgba(53,53,53,0.363);
+}
+.card{
+  transition: all 0.5s;
+}
+.nav-link:hover{
+  background-color: rgb(189, 216, 240);
+  box-shadow: 6px 6px 15px  rgba(53,53,53,0.363);
+}
+.card:hover{
+  box-shadow: 16px 16px 15px 10px rgba(53,53,53,0.363);
+}
+.icon{
+  cursor: pointer;
+}
+.viku{
+  background-color: #e7ecf1;
+}
+a.no-underline {
+  text-decoration: none;
+}
